@@ -5,3 +5,7 @@
 	$git submodule update --init
 	//you may need sudo for executing with port 80.
 	$sudo node server.js
+
+## TODO
+* set response status and headers.
+* add socket.io
