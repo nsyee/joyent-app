@@ -1,3 +1,5 @@
+test [(fab)](http://fabjs.org) application running on Joyent no.de.
+
 ## Installation
 
 	$git clone git://github.com/nsyee/joyent-app.git
