@@ -1,3 +1,6 @@
 [submodule "lib/fab"]
 	path = lib/fab
 	url = git://github.com/jed/fab.git
+[submodule "lib/Socket.IO-node"]
+	path = lib/Socket.IO-node
+	url = git://github.com/LearnBoost/Socket.IO-node.git
