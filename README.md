@@ -1,6 +1,6 @@
 test [(fab)](http://fabjs.org) application running on Joyent no.de.
 
-chat application is based from [socket.io example](http://github.com/LearnBoost/Socket.IO-node/tree/master/example/).
+this chat application is originally based on [socket.io example](http://github.com/LearnBoost/Socket.IO-node/tree/master/example/) and modified.
 
 ## Installation
 
