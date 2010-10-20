@@ -11,4 +11,3 @@ this chat application is originally based on [socket.io example](http://github.c
 
 ## TODO
 * set response status and headers.
-* decide what to do.
