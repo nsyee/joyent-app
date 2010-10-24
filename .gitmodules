@@ -4,3 +4,6 @@
 [submodule "lib/node-dirty"]
 	path = lib/node-dirty
 	url = git://github.com/felixge/node-dirty.git
+[submodule "lib/fab"]
+	path = lib/fab
+	url = git://github.com/nsyee/fab.git
